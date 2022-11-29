@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wA+gWdeZgRZFpLe3ku+VaZTYjur1NAFb/fEwTjBD0OABjcE/Bs3edmi5Y5hOiQacw4keIz+yIstIRnX1iKQ/pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pereira\\GitHub\\iac-playground\\example3-creating-an-AWS-elastic-beanstalk-application-with-docker\\web-application-example\\web-application-example\\web-application-example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pereira\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}

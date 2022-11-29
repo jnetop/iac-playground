@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = web_application_example
+build_property.ProjectDir = C:\Users\Pereira\GitHub\iac-playground\example3-creating-an-AWS-elastic-beanstalk-application-with-docker\web-application-example\web-application-example\
